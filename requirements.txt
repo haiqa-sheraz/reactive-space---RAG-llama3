@@ -1,0 +1,6 @@
+datasets
+sentence-transformers
+faiss-cpu
+accelerate
+PyPDF2
+bitsandbytes
