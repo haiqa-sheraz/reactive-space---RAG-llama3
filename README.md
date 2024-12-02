@@ -17,7 +17,7 @@ This repository contains the implementation of a Retrieval-Augmented Generation 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/rag-chatbot.git
+   git clone https://github.com/haiqa-sheraz/reactive-space---RAG-llama3.git
    cd rag-chatbot
    ```
 
