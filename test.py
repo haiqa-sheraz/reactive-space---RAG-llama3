@@ -14,7 +14,7 @@ PDF_FILE = "COMPANY PROFILE - Reactive Space.pdf"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_ADDRESS = "haiqa.sheraz@gmail.com"
-EMAIL_PASSWORD = "uhdg wcju ksls eeyl"
+EMAIL_PASSWORD = "xxxx" //provide app password here
 
 def send_email(recipient_email):
     subject = "Reactive Space Company Profile"
