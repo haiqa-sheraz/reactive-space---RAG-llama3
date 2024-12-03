@@ -37,7 +37,7 @@ This repository contains the implementation of a Retrieval-Augmented Generation 
    ```bash
    streamlit run test.py
    ```
-   Provide an email address when prompted to receive the company profile as a PDF attachment.
+   Provide an email address when prompted to receive the company profile as a PDF attachment. You will have to create an app password for your gmail account.
 
 5. **Notebook execution:**
    Test `rag-llama3-test-implementation.ipynb` on platforms like Kaggle. Provide a sample input PDF, use GPT T4x2 for inference, and call the `rag_chatbot` function to query the chatbot.
